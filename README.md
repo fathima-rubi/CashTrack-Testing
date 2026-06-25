@@ -40,7 +40,7 @@ design, execution, and defect reporting.
 
 ## Tools Used
 - **Test Management:** Jira
-- **Documentation:** Microsoft Excel
+- **Documentation:** Google Sheets
 - **Bug Tracking:** Jira
 
 ## Documents Included
